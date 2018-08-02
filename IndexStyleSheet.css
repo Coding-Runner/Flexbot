@@ -1,6 +1,7 @@
 body{
+	font-family: 'Raleway', sans-serif;
 	background-image: url("https://www.freegreatpicture.com/files/147/8964-background-color.jpg");
-
+	
 }
 
 .hi{
@@ -10,8 +11,21 @@ body{
 }
 
 .mission{
-	color: white; 
-	font-size: 10pt;
+
+	color: white;
+	margin-left: 50px;
+	margin-top: 150px;
+	font-family: 'Raleway', sans-serif;
+
 }
 
-w
+
+
+.hello{
+	font-family: 'Raleway', sans-serif;
+}
+
+.imageimage{
+	margin-left: 100px;
+	height: 400px
+}
