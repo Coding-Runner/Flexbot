@@ -10,5 +10,15 @@ img{
 }
 
 .col-sm{
-	height: 90px;
+	height: 200px;
+}
+
+.flex{
+	height: 150px;
+	width: 200px;
+}
+
+.amazon{
+	height: 100px;
+	width: 250px;
 }
