@@ -16,9 +16,14 @@ img{
 .flex{
 	height: 150px;
 	width: 200px;
+	
 }
 
 .amazon{
 	height: 100px;
 	width: 250px;
+}
+
+.google{
+	width: 330px;
 }
