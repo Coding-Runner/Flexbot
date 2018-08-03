@@ -16,7 +16,7 @@ img{
 .flex{
 	height: 150px;
 	width: 200px;
-	
+
 }
 
 .amazon{
@@ -26,4 +26,12 @@ img{
 
 .google{
 	width: 330px;
+}
+.row{
+	margin: 50px;
+}
+
+.youtube{
+	height: 200px;
+	width: 250px;
 }
