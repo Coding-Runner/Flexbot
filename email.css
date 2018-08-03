@@ -5,4 +5,8 @@ body{
 background-image{
 		height:1530px;
 }
+p{
+	color:black !important;
+	margin:20px;
+}
 
