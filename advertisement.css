@@ -14,3 +14,7 @@ margin: 20px;
 body{
 	color:white !important;
 }
+
+iframe{
+	margin-left: 20px;
+}
